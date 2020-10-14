@@ -1,8 +1,8 @@
 # MITx_6.00.1x
 
-This course did a good job of teaching me how to solve computational problems.  
+This course did a good job of teaching me how to solve computational problems with Python.
 
-One of the reasons I took this course is because of its level of rigor. Many of the programming assignments took a fair amount of time to complete and required me to really think through the problems, as opposed to typing minimal amounts of code that "worked". I also received a lot of practice in reading code that was efficient, inefficient or would cause errors. I also gained a lot of clarity on tradeoffs of one type of approach versus other programs that would "work" but were less effiecient.
+One of the reasons I took this course is because of its level of rigor. Many of the programming assignments took a fair amount of time to complete and required me to think through the problems, as opposed to typing minimal amounts of code that "worked". I also received a lot of practice in reading code that was efficient, inefficient or would cause errors. I also gained a lot of clarity on tradeoffs of one type of approach versus other programs that would "work" but were less effiecient.
 
 After completing the course, I possessed the ability to start my own projects. I also learned some fundamental ideas of computer science and programming (topics below), which led to my interest in learning C, C++, algorithms, as well as other topics in computer science, since I have a good starting point about how programs work.
 
