@@ -6,7 +6,7 @@ One of the reasons I took this course is because of its level of rigor. Many of 
 
 After completing the course, I possessed the ability to start my own projects. I also learned some fundamental ideas of computer science and programming (topics below), which led to my interest in learning C, C++, algorithms, as well as other topics in computer science, since I have a good starting point about how programs work.
 
-While I did learn how to write code in Python. This course was much more than writing "boilerplate code". This course was a mental gym which increased my abilities and was the type of course I am smarter as a result of investing the time to put in the work to complete.
+While I did learn how to write code in Python. This course was much more than writing "boilerplate code". Rather it was a daily mental workout about how to think like a software engineer for 9 weeks.
 
 Topics included:
 
