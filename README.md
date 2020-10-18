@@ -4,4 +4,4 @@
 
 Taking this course, while working through "Structure and Interpretation of Computer Programs", has given me a good foundation to begin projects and learn more complex subject matter in computer science.
 
-Included in another file will be my verified course certificate issued by edX.
+In one week, I will include averified course certificate issued by edX in a file.
