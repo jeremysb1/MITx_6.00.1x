@@ -2,7 +2,7 @@
 
 This course improved my problem solving abilities. 
 
-Meaning, the course was less about how to write boilerplate code and more about how to solve problems efficiently, while considering the tradeoffs inherent in one approach versus another.
+The course was less about how to write boilerplate code and more about how to solve problems efficiently, while considering the tradeoffs inherent in one approach versus another.
 
 Taking this course, while working through "Structure and Interpretation of Computer Programs", gave me a good foundation to begin projects and learn more complex subject matter in computer science.
 
