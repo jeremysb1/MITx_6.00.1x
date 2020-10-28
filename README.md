@@ -6,4 +6,4 @@ The course was less about how to write boilerplate code and more about how to so
 
 Taking this course, while working through "Structure and Interpretation of Computer Programs", gave me a good foundation to begin projects and learn more complex subject matter in computer science.
 
-Included in a separate file is a verified course certificate issued by edX.
+A verified course certificate issued by edX is included in a separate file.
