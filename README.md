@@ -2,7 +2,7 @@
 
 I completed MIT's intro to CS and Programming MOOC on edX. 
 
-This course improved my problem solving abilities, ability to read code, understand the basics of OOP, and introduced me to algorithms.  
+This course improved my problem solving, ability to read code, understand the basics of OOP, and introduced me to algorithms.  
 
 The course about how to solve problems efficiently, while considering the tradeoffs inherent in one approach versus another.
 
